@@ -142,4 +142,4 @@ It works best when comparing short DNA sequences and may not accurately detect c
 
 ## Author
 
-Reshma Kumari Mallick
+Gayatri Ghosh
